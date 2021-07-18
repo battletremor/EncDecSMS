@@ -54,7 +54,7 @@
 
         android:layout_height="wrap_content"
 
-        android:text="16-Character Secret Key:"
+        android:text="8-Character Secret Key:"
 
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
